@@ -28,7 +28,9 @@
   ],
   "homepage": "https://github.com/kirill3333/react-avatar#readme",
   "dependencies": {
-    "konva": "2.5.1"
+    "konva": "2.5.1",
+    "piexifjs": "1.0.4",
+    "webpack-cli": "2.1.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
